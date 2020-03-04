@@ -47,6 +47,21 @@ bundle install
 ruby main.rb
 ```
 
+You should be seeig:
+
+```
+Gwenborough
+Wisokyburgh
+McKenziehaven
+South Elvis
+Roscoeview
+South Christy
+Howemouth
+Aliyaview
+Bartholomebury
+Lebsackbury
+```
+
 [Solution](/ScriptingLanguages)
 
 ## SQL
