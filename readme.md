@@ -53,6 +53,32 @@ ruby main.rb
 [Solution](/SQL)
 
 ## JSON
+
+Corrected version
+
+```
+{
+    "id": "12345",
+    "type": "event",
+    "name": "click",
+    "12345": {
+    "primary": true,
+        "image": {
+            "url": "images/0001.jpg",
+            "width": 200,
+            "height": 200
+        },
+        "thumbnail": {
+            "url": "images/thumbnails/0001.jpg",
+            "width": 32,
+            "height": 32
+        },
+        "root": "acme.com"
+    }
+}
+
+```
+
 [Solution](/JSON)
 
 ## Web technologies
