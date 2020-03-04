@@ -43,7 +43,7 @@ They are issued by different providers.
 ## Scripting languages
 [Solution](/ScriptingLanguages)
 
-##SQL
+## SQL
 [Solution](/SQL)
 
 ## JSON
